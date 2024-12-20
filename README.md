@@ -47,6 +47,8 @@ Library Python yang diperlukan:
 
 - **Visualisasi:**
   - Scatter plot yang menunjukkan hubungan antara nilai aktual dan prediksi.
+  - Scatter plot yang menunjukkan hubungan curah hujan vs suhu rata-rata (Log scale)
+  - Heatmap pairwise correlation antar parameter cuaca
 
 - **Analisis Koefisien:**
   - Menampilkan kontribusi setiap fitur terhadap prediksi suhu rata-rata.
